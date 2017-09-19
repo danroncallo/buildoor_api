@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fef1cf80-bc20-492d-8906-4518cfba088c" name="buildoor" url="http://www.ejsoluciones.com.ve">
+        <fileTransfer host="www.ejsoluciones.com.ve" port="21" password="dfe5df9ddfe1dfc4df9cdfd0dfc9dfdfdf9fdf9a" username="ejsoluc1">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

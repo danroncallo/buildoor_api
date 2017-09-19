@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="buildoor">
+    <serverData>
+      <paths name="buildoor">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/api/Laravel" local="$PROJECT_DIR$" />
+            <mapping deploy="/public_html/api" local="$PROJECT_DIR$/public" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
